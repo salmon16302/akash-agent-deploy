@@ -8,7 +8,7 @@ You must have Akash CLI installed and properly configured along with some AKTs i
 Follow <a href="https://akash.network/docs/deployments/akash-cli/installation/#install-akash-cli">CLI Installation Guide</a> to install the Akash CLI if necessary.
 
 to buy or bridge AKT token, you can use this <a href="https://www.rocketx.exchange/">DEX</a>.
-
+![swap](images/swap.png)
 ## 1. Using Akash CLI
 ### Check your Account Balance
 Check your account has sufficient balance by running:
