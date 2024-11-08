@@ -18,11 +18,11 @@ RUN pip install -e .
 WORKDIR /app/agent
 RUN pip install -e .
 
-# Set the working directory to /app/agent
-WORKDIR /app/agent
+# Navigate to the agent subfolder
+WORKDIR /app/agent/agent
 
 # Expose any ports your app may need (adjust if necessary)
 EXPOSE 5000
 
-# Run the main.py script when the container starts
+# Run the main.py script from the agent/agent folder when the container starts
 CMD ["python", "main.py"]
