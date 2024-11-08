@@ -207,3 +207,6 @@ Now the only thing left to do is to confirm that the deployment was successful. 
 Now visit the URI link:
 
 You will be able to see the website you just deployed:
+
+### License
+This project is licensed under the MIT License.
